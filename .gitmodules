@@ -1,0 +1,6 @@
+[submodule "Library-project-client"]
+	path = Library-project-client
+	url = https://github.com/jishnuanilDev/Library-project-client.git
+[submodule "Library-project-server"]
+	path = Library-project-server
+	url = https://github.com/jishnuanilDev/Library-project-server.git
